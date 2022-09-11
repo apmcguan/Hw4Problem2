@@ -4,12 +4,10 @@ int main() {
   int a , b ;
   cin >> a >> b;
   if  ( a > b ) {
-    cout<< a ;
-    cout<< b ;
+    cout<<""<< b ; cout<<" "<< a ;
     } 
   else { 
-      cout<< b ; 
-      cout<< a ;
+      cout<<""<< a; cout <<" "<< b << endl;
     }
     
   
