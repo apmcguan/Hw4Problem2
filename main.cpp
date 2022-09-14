@@ -4,10 +4,10 @@ int main() {
   int a , b ;
   cin >> a >> b;
   if  ( a > b ) {
-    cout<<""<< b ; cout<<" "<< a ;
+    cout<<"The first number is greater" << endl;
     } 
   else { 
-      cout<<""<< a; cout <<" "<< b << endl;
+      cout<<"The first number is smaller" << endl;
     }
     
   
